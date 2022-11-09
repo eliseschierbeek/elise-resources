@@ -7,7 +7,8 @@ parent: Menu
 ## *this is an adventure*
 
 `![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.png)`
-### [Elise's Website](http://eliseschierbeek.cargo.site/ "Elise's Website") :laughing:
+### [Elise's Website](http://eliseschierbeek.cargo.site/ "Elise's Website") 
+:laughing:
 
 ## Horizontal Rules
 
