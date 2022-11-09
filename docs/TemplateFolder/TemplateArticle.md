@@ -10,6 +10,8 @@ parent: Menu
 ### [Elise's Website](http://eliseschierbeek.cargo.site/ "Elise's Website") 
 :laughing:
 
+Sample text
+
 ## Horizontal Rules
 
 ___
