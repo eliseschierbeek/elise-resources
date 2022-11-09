@@ -1,17 +1,19 @@
 ---
 layout: page
-title: ABOUT
+title: LINKS
 parent: Menu
 ---
+
+
+# h1 Heading 8-) :->
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
-## *this is an adventure*
+## this is an adventure
 
-`![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.png)`
-### [Elise's Website](http://eliseschierbeek.cargo.site/ "Elise's Website") 
-:laughing:
-
-- Sample text
-- More sample text
 
 ## Horizontal Rules
 
