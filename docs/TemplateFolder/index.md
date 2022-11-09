@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Template Folder
+title: Menu
 has_children: true
 ---
 {:toc}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IMAGES
-parent: Template Folder
+parent: Menu
 ---
 
 
@@ -12,7 +12,7 @@ parent: Template Folder
 ##### h5 Heading
 ###### h6 Heading
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
-## this was an adventure
+## this is an adventure
 
 
 ## Horizontal Rules
