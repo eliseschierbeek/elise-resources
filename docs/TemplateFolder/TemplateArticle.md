@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABOUT
-parent: Template Folder
+parent: Menu
 ---
 
 
@@ -14,8 +14,8 @@ parent: Template Folder
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
 ## *this is an adventure*
 
-`![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.jpeg)`
-### (http://eliseschierbeek.cargo.site "Elise's Website") :laughing:
+`![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.png)`
+### [Elise's Website](http://eliseschierbeek.cargo.site/ "Elise's Website") :laughing:
 
 ## Horizontal Rules
 
