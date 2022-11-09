@@ -6,9 +6,10 @@ parent: Menu
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
 ## *this is an adventure*
 
-`![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.png)`
+![Elise with a consumer VHS tape.]({{https://eliseschierbeek.github.io/}}/assets/images/EliseWithVHS.png)
+
+
 ### [Elise's Website](http://eliseschierbeek.cargo.site/ "Elise's Website") 
-:laughing:
 
 - Sample text
 - More sample text
