@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT
+title: IMAGES
 parent: Template Folder
 ---
 
@@ -12,10 +12,8 @@ parent: Template Folder
 ##### h5 Heading
 ###### h6 Heading
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
-## *this is an adventure*
+## this was an adventure
 
-`![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.jpeg)`
-### (http://eliseschierbeek.cargo.site "Elise's Website") :laughing:
 
 ## Horizontal Rules
 
