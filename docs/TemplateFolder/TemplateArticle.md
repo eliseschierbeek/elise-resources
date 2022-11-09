@@ -12,7 +12,7 @@ parent: Template Folder
 ##### h5 Heading
 ###### h6 Heading
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
-## *this was an adventure in navigating a foreign language*
+## *this is an adventure*
 
 `![Elise with a consumer VHS tape.]({{elise-resources}}/assets/images/EliseWithVHS.jpeg)`
 ### (http://eliseschierbeek.cargo.site "Elise's Website") :laughing:
