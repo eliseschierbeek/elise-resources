@@ -3,14 +3,6 @@ layout: page
 title: ABOUT
 parent: Menu
 ---
-
-
-# h1 Heading 8-) :->
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
 # The Story of How Elise Learned to Use GitHub and Generate a Web Page
 ## *this is an adventure*
 
